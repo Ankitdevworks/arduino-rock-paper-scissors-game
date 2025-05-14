@@ -39,5 +39,5 @@ The user enters their move via the **Serial Monitor**, and the computer responds
 ## 📸 Demo
 
 *
-<img width="1470" alt="Sstone_paper_scissor_game img" src="https://github.com/user-attachments/assets/9153ff59-351f-44dd-82db-76395601726f" />
-![stone_paper_scissor_game](https://github.com/user-attachments/assets/27277d3f-b874-46da-a49a-79704555544d)
+!img width="1470" alt="Sstone_paper_scissor_game img" src="https://github.com/user-attachments/assets/9153ff59-351f-44dd-82db-76395601726f"
+<![stone_paper_scissor_game](https://github.com/user-attachments/assets/27277d3f-b874-46da-a49a-79704555544d)/>
